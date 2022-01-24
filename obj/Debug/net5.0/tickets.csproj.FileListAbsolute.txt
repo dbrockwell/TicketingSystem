@@ -1,0 +1,16 @@
+C:\Users\David Brockwell\dotnet programs\tickets\bin\Debug\net5.0\tickets.exe
+C:\Users\David Brockwell\dotnet programs\tickets\bin\Debug\net5.0\tickets.deps.json
+C:\Users\David Brockwell\dotnet programs\tickets\bin\Debug\net5.0\tickets.runtimeconfig.json
+C:\Users\David Brockwell\dotnet programs\tickets\bin\Debug\net5.0\tickets.runtimeconfig.dev.json
+C:\Users\David Brockwell\dotnet programs\tickets\bin\Debug\net5.0\tickets.dll
+C:\Users\David Brockwell\dotnet programs\tickets\bin\Debug\net5.0\ref\tickets.dll
+C:\Users\David Brockwell\dotnet programs\tickets\bin\Debug\net5.0\tickets.pdb
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\tickets.csprojAssemblyReference.cache
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\tickets.AssemblyInfoInputs.cache
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\tickets.AssemblyInfo.cs
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\tickets.csproj.CoreCompileInputs.cache
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\tickets.dll
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\ref\tickets.dll
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\tickets.pdb
+C:\Users\David Brockwell\dotnet programs\tickets\obj\Debug\net5.0\tickets.genruntimeconfig.cache
